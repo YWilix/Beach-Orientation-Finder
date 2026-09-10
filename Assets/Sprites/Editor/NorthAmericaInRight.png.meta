@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 3e939600e00ce2d4991d4ffdcb260f4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2130908885225326894
+    second: NorthAmericaInRight_0
+  - first:
+      213: -5917337052693291626
+    second: NorthAmericaInRight_1
+  - first:
+      213: -1370028193360568291
+    second: NorthAmericaInRight_2
+  - first:
+      213: -4773730934983821536
+    second: NorthAmericaInRight_3
+  - first:
+      213: -5115369209930264680
+    second: NorthAmericaInRight_4
+  - first:
+      213: 7072718195207761625
+    second: NorthAmericaInRight_5
+  - first:
+      213: -6680985661056261613
+    second: NorthAmericaInRight_6
+  - first:
+      213: 7336729337505520031
+    second: NorthAmericaInRight_7
+  - first:
+      213: -3374642628803795387
+    second: NorthAmericaInRight_8
+  - first:
+      213: -6237429174916793307
+    second: NorthAmericaInRight_9
+  - first:
+      213: 8004083792106401150
+    second: NorthAmericaInRight_10
+  - first:
+      213: -373205065286254453
+    second: NorthAmericaInRight_11
+  - first:
+      213: 2695551441070891469
+    second: NorthAmericaInRight_12
+  - first:
+      213: 6618904702704694953
+    second: NorthAmericaInRight_13
+  - first:
+      213: -7636998282261463630
+    second: NorthAmericaInRight_14
+  - first:
+      213: -1462886004690379105
+    second: NorthAmericaInRight_15
+  - first:
+      213: -6391312872465616014
+    second: NorthAmericaInRight_16
+  - first:
+      213: 7869731822768990507
+    second: NorthAmericaInRight_17
+  - first:
+      213: 5286367966155459477
+    second: NorthAmericaInRight_18
+  - first:
+      213: 6333917042212837665
+    second: NorthAmericaInRight_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NorthAmericaInRight_0
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1472
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6bb6fa8ad7d62e0800000000000000
+      internalID: -2130908885225326894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_1
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 910
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d95fd4d4561eda0800000000000000
+      internalID: -5917337052693291626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_2
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 810
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10297aed9eacfce0800000000000000
+      internalID: -1370028193360568291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 88
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027fef6c10d40cdb0800000000000000
+      internalID: -4773730934983821536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_4
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 212
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fc2235ece8209b0800000000000000
+      internalID: -5115369209930264680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_5
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 175
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deecc5c9b7572260800000000000000
+      internalID: 7072718195207761625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 146
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312634b40fe5843a0800000000000000
+      internalID: -6680985661056261613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_7
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 91
+        width: 121
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f991437f57c41d560800000000000000
+      internalID: 7336729337505520031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_8
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 131
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5466242a86cda21d0800000000000000
+      internalID: -3374642628803795387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 68
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c3d6576333079a0800000000000000
+      internalID: -6237429174916793307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_10
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 74
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7da6fc2dc7341f60800000000000000
+      internalID: 8004083792106401150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_11
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 88
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b808c3f68fb12daf0800000000000000
+      internalID: -373205065286254453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_12
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 98
+        width: 93
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1a2d601c5886520800000000000000
+      internalID: 2695551441070891469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_13
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 77
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a630e632c21bdb50800000000000000
+      internalID: 6618904702704694953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_14
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 35
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd798b568ee30690800000000000000
+      internalID: -7636998282261463630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_15
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 44
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e1a8fede8c2bbe0800000000000000
+      internalID: -1462886004690379105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_16
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 33
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2733e4c1ece7d47a0800000000000000
+      internalID: -6391312872465616014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_17
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 61
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29abbda567e63d60800000000000000
+      internalID: 7869731822768990507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_18
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 52
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b43b628a3fc5940800000000000000
+      internalID: 5286367966155459477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NorthAmericaInRight_19
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 78
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12993e9cdf796e750800000000000000
+      internalID: 6333917042212837665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NorthAmericaInRight_0: -2130908885225326894
+      NorthAmericaInRight_1: -5917337052693291626
+      NorthAmericaInRight_10: 8004083792106401150
+      NorthAmericaInRight_11: -373205065286254453
+      NorthAmericaInRight_12: 2695551441070891469
+      NorthAmericaInRight_13: 6618904702704694953
+      NorthAmericaInRight_14: -7636998282261463630
+      NorthAmericaInRight_15: -1462886004690379105
+      NorthAmericaInRight_16: -6391312872465616014
+      NorthAmericaInRight_17: 7869731822768990507
+      NorthAmericaInRight_18: 5286367966155459477
+      NorthAmericaInRight_19: 6333917042212837665
+      NorthAmericaInRight_2: -1370028193360568291
+      NorthAmericaInRight_3: -4773730934983821536
+      NorthAmericaInRight_4: -5115369209930264680
+      NorthAmericaInRight_5: 7072718195207761625
+      NorthAmericaInRight_6: -6680985661056261613
+      NorthAmericaInRight_7: 7336729337505520031
+      NorthAmericaInRight_8: -3374642628803795387
+      NorthAmericaInRight_9: -6237429174916793307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

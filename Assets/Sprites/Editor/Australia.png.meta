@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: d0c53b3aa1e42d44da9ae41bbcf9bf52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1576743139329341299
+    second: Australia_0
+  - first:
+      213: -6471990027732521104
+    second: Australia_1
+  - first:
+      213: 5375084164311354552
+    second: Australia_2
+  - first:
+      213: -2337826403219031953
+    second: Australia_3
+  - first:
+      213: -5658912630755542524
+    second: Australia_4
+  - first:
+      213: 5343506086442642406
+    second: Australia_5
+  - first:
+      213: 1123378626350748866
+    second: Australia_6
+  - first:
+      213: 8353263762570898006
+    second: Australia_7
+  - first:
+      213: -8046558585535176424
+    second: Australia_8
+  - first:
+      213: 3849250206486423554
+    second: Australia_9
+  - first:
+      213: -6425742777863904161
+    second: Australia_10
+  - first:
+      213: 2883537225931773300
+    second: Australia_11
+  - first:
+      213: -4535267367987625491
+    second: Australia_12
+  - first:
+      213: 579603392608320367
+    second: Australia_13
+  - first:
+      213: 8263124165672725322
+    second: Australia_14
+  - first:
+      213: -8821004266091570697
+    second: Australia_15
+  - first:
+      213: -1036526275751722801
+    second: Australia_16
+  - first:
+      213: 7952179854962269433
+    second: Australia_17
+  - first:
+      213: -8898493022846996945
+    second: Australia_18
+  - first:
+      213: 5227860682290015510
+    second: Australia_19
+  - first:
+      213: -6449836530055086522
+    second: Australia_20
+  - first:
+      213: -7931279071416697006
+    second: Australia_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Australia_0
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 1846
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37772c10887b1e510800000000000000
+      internalID: 1576743139329341299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_1
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1836
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fe12f1c5fde26a0800000000000000
+      internalID: -6471990027732521104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_2
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 1829
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc0b9ba192289a40800000000000000
+      internalID: 5375084164311354552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1781
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68b999c54f5e8fd0800000000000000
+      internalID: -2337826403219031953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_4
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 793
+        width: 1325
+        height: 1041
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a38dcc1f08771b0800000000000000
+      internalID: -5658912630755542524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_5
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1301
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb2d897972f72a40800000000000000
+      internalID: 5343506086442642406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_6
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 752
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c417e3a8ea079f00800000000000000
+      internalID: 1123378626350748866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_7
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 746
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a6e237221cce370800000000000000
+      internalID: 8353263762570898006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_8
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 687
+        width: 194
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8116ec45991e45090800000000000000
+      internalID: -8046558585535176424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_9
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 732
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208e8392ba84b6530800000000000000
+      internalID: 3849250206486423554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_10
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 736
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54e3631dfc23d6a0800000000000000
+      internalID: -6425742777863904161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_11
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 732
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475574054d1640820800000000000000
+      internalID: 2883537225931773300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_12
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 459
+        width: 261
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de14da19b5e7f01c0800000000000000
+      internalID: -4535267367987625491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_13
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 598
+        width: 124
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bb707f63a2b0800800000000000000
+      internalID: 579603392608320367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_14
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 576
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b6ed516a38ca270800000000000000
+      internalID: 8263124165672725322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_15
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 566
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9186d0b5f759580800000000000000
+      internalID: -8821004266091570697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_16
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 428
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0c57d08d48d91f0800000000000000
+      internalID: -1036526275751722801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 308
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc1b051271db5e60800000000000000
+      internalID: 7952179854962269433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_18
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 250
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ea9e0fdb3328480800000000000000
+      internalID: -8898493022846996945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_19
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 159
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61da02797971d8840800000000000000
+      internalID: 5227860682290015510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 125
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e7abe39d39d76a0800000000000000
+      internalID: -6449836530055086522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia_21
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 39
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fb7bdc4bf6ee190800000000000000
+      internalID: -7931279071416697006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Australia_0: 1576743139329341299
+      Australia_1: -6471990027732521104
+      Australia_10: -6425742777863904161
+      Australia_11: 2883537225931773300
+      Australia_12: -4535267367987625491
+      Australia_13: 579603392608320367
+      Australia_14: 8263124165672725322
+      Australia_15: -8821004266091570697
+      Australia_16: -1036526275751722801
+      Australia_17: 7952179854962269433
+      Australia_18: -8898493022846996945
+      Australia_19: 5227860682290015510
+      Australia_2: 5375084164311354552
+      Australia_20: -6449836530055086522
+      Australia_21: -7931279071416697006
+      Australia_3: -2337826403219031953
+      Australia_4: -5658912630755542524
+      Australia_5: 5343506086442642406
+      Australia_6: 1123378626350748866
+      Australia_7: 8353263762570898006
+      Australia_8: -8046558585535176424
+      Australia_9: 3849250206486423554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

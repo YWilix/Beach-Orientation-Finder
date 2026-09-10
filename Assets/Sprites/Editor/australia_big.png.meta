@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 7efd2ed968ba0834ab553ea918a0613a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8242091215537190643
+    second: australia_big_0
+  - first:
+      213: 7543316594601806465
+    second: australia_big_1
+  - first:
+      213: -142405401844929129
+    second: australia_big_2
+  - first:
+      213: -5274312250701002412
+    second: australia_big_3
+  - first:
+      213: -2161534758426842421
+    second: australia_big_4
+  - first:
+      213: 3508133848335637127
+    second: australia_big_5
+  - first:
+      213: 3210714757498925109
+    second: australia_big_6
+  - first:
+      213: 7583304081183045878
+    second: australia_big_7
+  - first:
+      213: 7729059818925415584
+    second: australia_big_8
+  - first:
+      213: -5542455642299138036
+    second: australia_big_9
+  - first:
+      213: -5293272042422600406
+    second: australia_big_10
+  - first:
+      213: 108699107245739621
+    second: australia_big_11
+  - first:
+      213: -4183852465393062771
+    second: australia_big_12
+  - first:
+      213: -6588080465646546254
+    second: australia_big_13
+  - first:
+      213: -207042959294616521
+    second: australia_big_14
+  - first:
+      213: 6181433650769365931
+    second: australia_big_15
+  - first:
+      213: -33567079714710278
+    second: australia_big_16
+  - first:
+      213: 8078299889669006392
+    second: australia_big_17
+  - first:
+      213: -1486738522793901420
+    second: australia_big_18
+  - first:
+      213: -1843794612942966727
+    second: australia_big_19
+  - first:
+      213: -3719989250832580348
+    second: australia_big_20
+  - first:
+      213: 8665632590266093764
+    second: australia_big_21
+  - first:
+      213: -5776017001511126379
+    second: australia_big_22
+  - first:
+      213: -7152492163055861069
+    second: australia_big_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: australia_big_0
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 5084
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f63674ca4ac16270800000000000000
+      internalID: 8242091215537190643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_1
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 5077
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18acc810a7e3fa860800000000000000
+      internalID: 7543316594601806465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_2
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 5048
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dafe0aa03160ef0800000000000000
+      internalID: -142405401844929129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_3
+      rect:
+        serializedVersion: 2
+        x: 6699
+        y: 5030
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459c976d3f0edc6b0800000000000000
+      internalID: -5274312250701002412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_4
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 4897
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaee4ae69fa002e0800000000000000
+      internalID: -2161534758426842421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_5
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 4897
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ad19ee5256fa030800000000000000
+      internalID: 3508133848335637127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_6
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 2141
+        width: 3696
+        height: 2897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530f3d39f00ce8c20800000000000000
+      internalID: 3210714757498925109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_7
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 3556
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f87fae32ee4d3960800000000000000
+      internalID: 7583304081183045878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_8
+      rect:
+        serializedVersion: 2
+        x: 6855
+        y: 2026
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac5bca74f2234b60800000000000000
+      internalID: 7729059818925415584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_9
+      rect:
+        serializedVersion: 2
+        x: 7214
+        y: 2009
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00866165fd3513b0800000000000000
+      internalID: -5542455642299138036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_10
+      rect:
+        serializedVersion: 2
+        x: 9492
+        y: 1847
+        width: 536
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2df4e35f158a86b0800000000000000
+      internalID: -5293272042422600406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_11
+      rect:
+        serializedVersion: 2
+        x: 6935
+        y: 1970
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ec8ca134d228100800000000000000
+      internalID: 108699107245739621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_12
+      rect:
+        serializedVersion: 2
+        x: 7236
+        y: 1981
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8caa978958ffe5c0800000000000000
+      internalID: -4183852465393062771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_13
+      rect:
+        serializedVersion: 2
+        x: 7246
+        y: 1970
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2927db8bf6294a0800000000000000
+      internalID: -6588080465646546254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_14
+      rect:
+        serializedVersion: 2
+        x: 8923
+        y: 1210
+        width: 724
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73caff5868f602df0800000000000000
+      internalID: -207042959294616521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_15
+      rect:
+        serializedVersion: 2
+        x: 6929
+        y: 1598
+        width: 341
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab01cc972dd8c550800000000000000
+      internalID: 6181433650769365931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_16
+      rect:
+        serializedVersion: 2
+        x: 10446
+        y: 1536
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc15793beeb88ff0800000000000000
+      internalID: -33567079714710278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_17
+      rect:
+        serializedVersion: 2
+        x: 10503
+        y: 1508
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8346cc0f2f2eb1070800000000000000
+      internalID: 8078299889669006392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_18
+      rect:
+        serializedVersion: 2
+        x: 9019
+        y: 1125
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4920bfac03b0e5be0800000000000000
+      internalID: -1486738522793901420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 789
+        width: 164
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93071c081968966e0800000000000000
+      internalID: -1843794612942966727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_20
+      rect:
+        serializedVersion: 2
+        x: 8869
+        y: 626
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4014ad75c71ff5cc0800000000000000
+      internalID: -3719989250832580348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_21
+      rect:
+        serializedVersion: 2
+        x: 9156
+        y: 373
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0dbd8ade2824870800000000000000
+      internalID: 8665632590266093764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 280
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aff48c32777dfa0800000000000000
+      internalID: -5776017001511126379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: australia_big_23
+      rect:
+        serializedVersion: 2
+        x: 8225
+        y: 38
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b24a42f54e3dbc90800000000000000
+      internalID: -7152492163055861069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      australia_big_0: 8242091215537190643
+      australia_big_1: 7543316594601806465
+      australia_big_10: -5293272042422600406
+      australia_big_11: 108699107245739621
+      australia_big_12: -4183852465393062771
+      australia_big_13: -6588080465646546254
+      australia_big_14: -207042959294616521
+      australia_big_15: 6181433650769365931
+      australia_big_16: -33567079714710278
+      australia_big_17: 8078299889669006392
+      australia_big_18: -1486738522793901420
+      australia_big_19: -1843794612942966727
+      australia_big_2: -142405401844929129
+      australia_big_20: -3719989250832580348
+      australia_big_21: 8665632590266093764
+      australia_big_22: -5776017001511126379
+      australia_big_23: -7152492163055861069
+      australia_big_3: -5274312250701002412
+      australia_big_4: -2161534758426842421
+      australia_big_5: 3508133848335637127
+      australia_big_6: 3210714757498925109
+      australia_big_7: 7583304081183045878
+      australia_big_8: 7729059818925415584
+      australia_big_9: -5542455642299138036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

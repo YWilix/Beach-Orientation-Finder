@@ -1,0 +1,2600 @@
+fileFormatVersion: 2
+guid: f920a2f8d5c08614fa615adfb024ad88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3512985028148883584
+    second: EuropeAndMiddleEast_3_0
+  - first:
+      213: -3868178204537063592
+    second: EuropeAndMiddleEast_3_1
+  - first:
+      213: 2978569684970687195
+    second: EuropeAndMiddleEast_3_2
+  - first:
+      213: -7386123734642687841
+    second: EuropeAndMiddleEast_3_3
+  - first:
+      213: -4821084185819696013
+    second: EuropeAndMiddleEast_3_4
+  - first:
+      213: 7239551187589201684
+    second: EuropeAndMiddleEast_3_5
+  - first:
+      213: -4047750343076917713
+    second: EuropeAndMiddleEast_3_6
+  - first:
+      213: -283121609998074711
+    second: EuropeAndMiddleEast_3_7
+  - first:
+      213: 3497805349308546156
+    second: EuropeAndMiddleEast_3_8
+  - first:
+      213: -2165493841794956511
+    second: EuropeAndMiddleEast_3_9
+  - first:
+      213: -1174746158764307418
+    second: EuropeAndMiddleEast_3_10
+  - first:
+      213: 2958193178699722759
+    second: EuropeAndMiddleEast_3_11
+  - first:
+      213: 7345259097720139901
+    second: EuropeAndMiddleEast_3_12
+  - first:
+      213: -1731475362437323586
+    second: EuropeAndMiddleEast_3_13
+  - first:
+      213: -6838362343022571010
+    second: EuropeAndMiddleEast_3_14
+  - first:
+      213: -548641429228151836
+    second: EuropeAndMiddleEast_3_15
+  - first:
+      213: 9072264492485113162
+    second: EuropeAndMiddleEast_3_16
+  - first:
+      213: 3922596220774042014
+    second: EuropeAndMiddleEast_3_17
+  - first:
+      213: -5928723577277044983
+    second: EuropeAndMiddleEast_3_18
+  - first:
+      213: -1915088992789541159
+    second: EuropeAndMiddleEast_3_19
+  - first:
+      213: 69041597171859345
+    second: EuropeAndMiddleEast_3_20
+  - first:
+      213: 3978488511712871146
+    second: EuropeAndMiddleEast_3_21
+  - first:
+      213: -7402636311061694474
+    second: EuropeAndMiddleEast_3_22
+  - first:
+      213: 1867994306249200411
+    second: EuropeAndMiddleEast_3_23
+  - first:
+      213: -1853309377380622903
+    second: EuropeAndMiddleEast_3_24
+  - first:
+      213: 6290526380546102890
+    second: EuropeAndMiddleEast_3_25
+  - first:
+      213: 6937647342261925001
+    second: EuropeAndMiddleEast_3_26
+  - first:
+      213: -4118090037645346728
+    second: EuropeAndMiddleEast_3_27
+  - first:
+      213: 1233220021396333095
+    second: EuropeAndMiddleEast_3_28
+  - first:
+      213: 953346519714425783
+    second: EuropeAndMiddleEast_3_29
+  - first:
+      213: -4291027201884316101
+    second: EuropeAndMiddleEast_3_30
+  - first:
+      213: 7273124584559111768
+    second: EuropeAndMiddleEast_3_31
+  - first:
+      213: 6011693512445894853
+    second: EuropeAndMiddleEast_3_32
+  - first:
+      213: -6066188948134302496
+    second: EuropeAndMiddleEast_3_33
+  - first:
+      213: 2150588058956793760
+    second: EuropeAndMiddleEast_3_34
+  - first:
+      213: 1130331481039035398
+    second: EuropeAndMiddleEast_3_35
+  - first:
+      213: -2071802995878312713
+    second: EuropeAndMiddleEast_3_36
+  - first:
+      213: 8159004601733382845
+    second: EuropeAndMiddleEast_3_37
+  - first:
+      213: -1807806643939786051
+    second: EuropeAndMiddleEast_3_38
+  - first:
+      213: 3386878822774628853
+    second: EuropeAndMiddleEast_3_39
+  - first:
+      213: -2640779400899526939
+    second: EuropeAndMiddleEast_3_40
+  - first:
+      213: 6549295895519706440
+    second: EuropeAndMiddleEast_3_41
+  - first:
+      213: -5305707793195229858
+    second: EuropeAndMiddleEast_3_42
+  - first:
+      213: -5354224025348743352
+    second: EuropeAndMiddleEast_3_43
+  - first:
+      213: -3325490117012767895
+    second: EuropeAndMiddleEast_3_44
+  - first:
+      213: -2917366664182000912
+    second: EuropeAndMiddleEast_3_45
+  - first:
+      213: -3313683282466574025
+    second: EuropeAndMiddleEast_3_46
+  - first:
+      213: -3893661918702298606
+    second: EuropeAndMiddleEast_3_47
+  - first:
+      213: 8819211254817734887
+    second: EuropeAndMiddleEast_3_48
+  - first:
+      213: -6171271671992020687
+    second: EuropeAndMiddleEast_3_49
+  - first:
+      213: 6031095406462493289
+    second: EuropeAndMiddleEast_3_50
+  - first:
+      213: 8474646884573929416
+    second: EuropeAndMiddleEast_3_51
+  - first:
+      213: -716973502480293448
+    second: EuropeAndMiddleEast_3_52
+  - first:
+      213: 6675971206872943671
+    second: EuropeAndMiddleEast_3_53
+  - first:
+      213: 3978074441760111573
+    second: EuropeAndMiddleEast_3_54
+  - first:
+      213: 2704876616212259939
+    second: EuropeAndMiddleEast_3_55
+  - first:
+      213: 2173492577464424230
+    second: EuropeAndMiddleEast_3_56
+  - first:
+      213: -962981647882090394
+    second: EuropeAndMiddleEast_3_57
+  - first:
+      213: 6691889662113547327
+    second: EuropeAndMiddleEast_3_58
+  - first:
+      213: -4664023722685786515
+    second: EuropeAndMiddleEast_3_59
+  - first:
+      213: -8953098905922408695
+    second: EuropeAndMiddleEast_3_60
+  - first:
+      213: 2887030135957866316
+    second: EuropeAndMiddleEast_3_61
+  - first:
+      213: 1814894763981663380
+    second: EuropeAndMiddleEast_3_62
+  - first:
+      213: 3121149872893629141
+    second: EuropeAndMiddleEast_3_63
+  - first:
+      213: 2921878830626737377
+    second: EuropeAndMiddleEast_3_64
+  - first:
+      213: -1828060654944199046
+    second: EuropeAndMiddleEast_3_65
+  - first:
+      213: 8582508288124224623
+    second: EuropeAndMiddleEast_3_66
+  - first:
+      213: 5074031014102735887
+    second: EuropeAndMiddleEast_3_67
+  - first:
+      213: 2548232524801282740
+    second: EuropeAndMiddleEast_3_68
+  - first:
+      213: 4271850332934792201
+    second: EuropeAndMiddleEast_3_69
+  - first:
+      213: 4352758894845724935
+    second: EuropeAndMiddleEast_3_70
+  - first:
+      213: -5554487372056699347
+    second: EuropeAndMiddleEast_3_71
+  - first:
+      213: -3874092826675342840
+    second: EuropeAndMiddleEast_3_72
+  - first:
+      213: -9082424188338785513
+    second: EuropeAndMiddleEast_3_73
+  - first:
+      213: 4668072043780922968
+    second: EuropeAndMiddleEast_3_74
+  - first:
+      213: -3374496099088100310
+    second: EuropeAndMiddleEast_3_75
+  - first:
+      213: -1992510481137244426
+    second: EuropeAndMiddleEast_3_76
+  - first:
+      213: -8523991690517975885
+    second: EuropeAndMiddleEast_3_77
+  - first:
+      213: 3730563236897741350
+    second: EuropeAndMiddleEast_3_78
+  - first:
+      213: 6419460511337437760
+    second: EuropeAndMiddleEast_3_79
+  - first:
+      213: -5491235776501625662
+    second: EuropeAndMiddleEast_3_80
+  - first:
+      213: 2353287527206109063
+    second: EuropeAndMiddleEast_3_81
+  - first:
+      213: -4348587819646233346
+    second: EuropeAndMiddleEast_3_82
+  - first:
+      213: 999497378665909795
+    second: EuropeAndMiddleEast_3_83
+  - first:
+      213: 6515617875162141571
+    second: EuropeAndMiddleEast_3_84
+  - first:
+      213: 8757169525413157767
+    second: EuropeAndMiddleEast_3_85
+  - first:
+      213: 8927211336439216145
+    second: EuropeAndMiddleEast_3_86
+  - first:
+      213: 5376458746100941345
+    second: EuropeAndMiddleEast_3_87
+  - first:
+      213: -6379997331487853395
+    second: EuropeAndMiddleEast_3_88
+  - first:
+      213: 3974734756821366551
+    second: EuropeAndMiddleEast_3_89
+  - first:
+      213: -4688573952333461655
+    second: EuropeAndMiddleEast_3_90
+  - first:
+      213: -8720982519504522343
+    second: EuropeAndMiddleEast_3_91
+  - first:
+      213: 5677720063741617793
+    second: EuropeAndMiddleEast_3_92
+  - first:
+      213: -7891709392038453682
+    second: EuropeAndMiddleEast_3_93
+  - first:
+      213: -8780769232566979400
+    second: EuropeAndMiddleEast_3_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 857
+        width: 3823
+        height: 2301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f8befbabe5f3fc0800000000000000
+      internalID: -3512985028148883584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_1
+      rect:
+        serializedVersion: 2
+        x: 3997
+        y: 2441
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857f8aeda68715ac0800000000000000
+      internalID: -3868178204537063592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_2
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 2410
+        width: 215
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdacc6be851065920800000000000000
+      internalID: 2978569684970687195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2349
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f908a81c8973f7990800000000000000
+      internalID: -7386123734642687841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_4
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 2059
+        width: 394
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374b6f7e971181db0800000000000000
+      internalID: -4821084185819696013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_5
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 2028
+        width: 107
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ff285c27d087460800000000000000
+      internalID: 7239551187589201684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_6
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 1780
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e4f65428083d7c0800000000000000
+      internalID: -4047750343076917713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_7
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 1281
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acf3df4566221cf0800000000000000
+      internalID: -283121609998074711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_8
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 667
+        width: 367
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c3ffade63ba8030800000000000000
+      internalID: 3497805349308546156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_9
+      rect:
+        serializedVersion: 2
+        x: 4655
+        y: 1051
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123048cf2de92f1e0800000000000000
+      internalID: -2165493841794956511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_10
+      rect:
+        serializedVersion: 2
+        x: 4961
+        y: 1061
+        width: 163
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c4999b79672bfe0800000000000000
+      internalID: -1174746158764307418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_11
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 383
+        width: 384
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7007169d50d9d0920800000000000000
+      internalID: 2958193178699722759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_12
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 614
+        width: 229
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70b0d68b3a9fe560800000000000000
+      internalID: 7345259097720139901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_13
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 782
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb42594e45098f7e0800000000000000
+      internalID: -1731475362437323586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_14
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 782
+        width: 55
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef15bb22ea14911a0800000000000000
+      internalID: -6838362343022571010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_15
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 807
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb1bc5e685d268f0800000000000000
+      internalID: -548641429228151836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_16
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 795
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45f6fe2d7827ed70800000000000000
+      internalID: 9072264492485113162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_17
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 706
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99c680ea7cdf6630800000000000000
+      internalID: 3922596220774042014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_18
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 743
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9072be47151f8bda0800000000000000
+      internalID: -5928723577277044983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_19
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 745
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dec48725bc3c65e0800000000000000
+      internalID: -1915088992789541159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_20
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 753
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f772287f845f000800000000000000
+      internalID: 69041597171859345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_21
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 741
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae24e93f83e663730800000000000000
+      internalID: 3978488511712871146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_22
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 438
+        width: 722
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f772c5fe7d844990800000000000000
+      internalID: -7402636311061694474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_23
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 700
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b139f6aace27ce910800000000000000
+      internalID: 1867994306249200411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_24
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 727
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdd356c0f8b746e0800000000000000
+      internalID: -1853309377380622903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_25
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 707
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a669caa1a607c4750800000000000000
+      internalID: 6290526380546102890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_26
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 679
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98474742089774060800000000000000
+      internalID: 6937647342261925001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_27
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 707
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858f219edea99d6c0800000000000000
+      internalID: -4118090037645346728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_28
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 678
+        width: 107
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7226a3953174d1110800000000000000
+      internalID: 1233220021396333095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_29
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 644
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbee6fcb97fa3d00800000000000000
+      internalID: 953346519714425783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_30
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 696
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e9526ae753374c0800000000000000
+      internalID: -4291027201884316101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_31
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 592
+        width: 146
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e6ec566445fe460800000000000000
+      internalID: 7273124584559111768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_32
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 623
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0abd3f563dd6350800000000000000
+      internalID: 6011693512445894853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_33
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 572
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eced0eaa4190dba0800000000000000
+      internalID: -6066188948134302496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_34
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 580
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a70150027c68dd10800000000000000
+      internalID: 2150588058956793760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_35
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 502
+        width: 371
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cd5c54e7ebfaf00800000000000000
+      internalID: 1130331481039035398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_36
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 586
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f44512f62a7f33e0800000000000000
+      internalID: -2071802995878312713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_37
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 563
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2881ff47b9a3170800000000000000
+      internalID: 8159004601733382845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_38
+      rect:
+        serializedVersion: 2
+        x: 4569
+        y: 563
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2c06d7f6169e6e0800000000000000
+      internalID: -1807806643939786051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_39
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 553
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f166c8485c900f20800000000000000
+      internalID: 3386878822774628853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_40
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 533
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eef63750211a5bd0800000000000000
+      internalID: -2640779400899526939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_41
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 535
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d3065dae5c3ea50800000000000000
+      internalID: 6549295895519706440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_42
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 528
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d93987fd65e56b0800000000000000
+      internalID: -5305707793195229858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_43
+      rect:
+        serializedVersion: 2
+        x: 4623
+        y: 505
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fd939ed99f1b5b0800000000000000
+      internalID: -5354224025348743352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_44
+      rect:
+        serializedVersion: 2
+        x: 4666
+        y: 513
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bb1679b5c79d1d0800000000000000
+      internalID: -3325490117012767895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_45
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 499
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f29dddc97e6387d0800000000000000
+      internalID: -2917366664182000912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_46
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 493
+        width: 86
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731fd6a7c9e6302d0800000000000000
+      internalID: -3313683282466574025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_47
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 499
+        width: 147
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a984c4d1fe6f9c0800000000000000
+      internalID: -3893661918702298606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_48
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 449
+        width: 133
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0c98af8e1246a70800000000000000
+      internalID: 8819211254817734887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_49
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 513
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1311c727c1d3b5aa0800000000000000
+      internalID: -6171271671992020687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_50
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 517
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962efac6151c2b350800000000000000
+      internalID: 6031095406462493289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_51
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 521
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf56efd07efb9570800000000000000
+      internalID: 8474646884573929416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_52
+      rect:
+        serializedVersion: 2
+        x: 4741
+        y: 470
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b16b4fe56ccc06f0800000000000000
+      internalID: -716973502480293448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_53
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 506
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cc56c1170d5ac50800000000000000
+      internalID: 6675971206872943671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_54
+      rect:
+        serializedVersion: 2
+        x: 4631
+        y: 504
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbfb27c0a5f43730800000000000000
+      internalID: 3978074441760111573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_55
+      rect:
+        serializedVersion: 2
+        x: 4656
+        y: 503
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364a79e83f6a98520800000000000000
+      internalID: 2704876616212259939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_56
+      rect:
+        serializedVersion: 2
+        x: 4458
+        y: 489
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62717b9cbfbc92e10800000000000000
+      internalID: 2173492577464424230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_57
+      rect:
+        serializedVersion: 2
+        x: 4687
+        y: 492
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66884c81b4dc2a2f0800000000000000
+      internalID: -962981647882090394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_58
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 491
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34036a413e5edc50800000000000000
+      internalID: 6691889662113547327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_59
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 451
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d669151a22f064fb0800000000000000
+      internalID: -4664023722685786515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_60
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 455
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f6e890bf330c380800000000000000
+      internalID: -8953098905922408695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_61
+      rect:
+        serializedVersion: 2
+        x: 4707
+        y: 464
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47cd9dcc9ac01820800000000000000
+      internalID: 2887030135957866316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_62
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 440
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ce7df0c2dcf2910800000000000000
+      internalID: 1814894763981663380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_63
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 449
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d29498d54d805b20800000000000000
+      internalID: 3121149872893629141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_64
+      rect:
+        serializedVersion: 2
+        x: 4766
+        y: 432
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec8d30d0599c8820800000000000000
+      internalID: 2921878830626737377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_65
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 429
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ede22158c61a6e0800000000000000
+      internalID: -1828060654944199046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_66
+      rect:
+        serializedVersion: 2
+        x: 5678
+        y: 325
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f648d73e0d13b1770800000000000000
+      internalID: 8582508288124224623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_67
+      rect:
+        serializedVersion: 2
+        x: 5703
+        y: 317
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c98eee2549a6640800000000000000
+      internalID: 5074031014102735887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_68
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 255
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b290edeaf32d5320800000000000000
+      internalID: 2548232524801282740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_69
+      rect:
+        serializedVersion: 2
+        x: 4990
+        y: 265
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904663c9e39a84b30800000000000000
+      internalID: 4271850332934792201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_70
+      rect:
+        serializedVersion: 2
+        x: 5006
+        y: 268
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7098338272b186c30800000000000000
+      internalID: 4352758894845724935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_71
+      rect:
+        serializedVersion: 2
+        x: 5006
+        y: 247
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eda2ff92f7ae2b0800000000000000
+      internalID: -5554487372056699347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_72
+      rect:
+        serializedVersion: 2
+        x: 4972
+        y: 225
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802902799157c3ac0800000000000000
+      internalID: -3874092826675342840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_73
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 233
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713b6aa425fb4f180800000000000000
+      internalID: -9082424188338785513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_74
+      rect:
+        serializedVersion: 2
+        x: 5371
+        y: 195
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e5e739ac258c040800000000000000
+      internalID: 4668072043780922968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_75
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 226
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2499ed3da16b21d0800000000000000
+      internalID: -3374496099088100310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_76
+      rect:
+        serializedVersion: 2
+        x: 5006
+        y: 215
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f66290364e2954e0800000000000000
+      internalID: -1992510481137244426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_77
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 209
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc6b4238b2b4b980800000000000000
+      internalID: -8523991690517975885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_78
+      rect:
+        serializedVersion: 2
+        x: 5325
+        y: 203
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62adb63af7f95c330800000000000000
+      internalID: 3730563236897741350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_79
+      rect:
+        serializedVersion: 2
+        x: 5458
+        y: 198
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a5ae3c251861950800000000000000
+      internalID: 6419460511337437760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_80
+      rect:
+        serializedVersion: 2
+        x: 5007
+        y: 180
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc44b3b7263bc3b0800000000000000
+      internalID: -5491235776501625662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_81
+      rect:
+        serializedVersion: 2
+        x: 5327
+        y: 163
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f3a79a98e88a020800000000000000
+      internalID: 2353287527206109063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_82
+      rect:
+        serializedVersion: 2
+        x: 5380
+        y: 182
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef45567fa66b6a3c0800000000000000
+      internalID: -4348587819646233346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_83
+      rect:
+        serializedVersion: 2
+        x: 5397
+        y: 169
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ec051029deedd00800000000000000
+      internalID: 999497378665909795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_84
+      rect:
+        serializedVersion: 2
+        x: 5456
+        y: 173
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383993dafef1c6a50800000000000000
+      internalID: 6515617875162141571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_85
+      rect:
+        serializedVersion: 2
+        x: 5481
+        y: 174
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b90203947b78970800000000000000
+      internalID: 8757169525413157767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_86
+      rect:
+        serializedVersion: 2
+        x: 5037
+        y: 136
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118bc4f7963d3eb70800000000000000
+      internalID: 8927211336439216145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_87
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 147
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12283ee6eb40d9a40800000000000000
+      internalID: 5376458746100941345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_88
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 130
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4f9bcca32b577a0800000000000000
+      internalID: -6379997331487853395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_89
+      rect:
+        serializedVersion: 2
+        x: 5777
+        y: 131
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7177cb8c338192730800000000000000
+      internalID: 3974734756821366551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_90
+      rect:
+        serializedVersion: 2
+        x: 5045
+        y: 112
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967c30cd4d6deeeb0800000000000000
+      internalID: -4688573952333461655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_91
+      rect:
+        serializedVersion: 2
+        x: 4863
+        y: 9
+        width: 107
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993ba80ba98d8f680800000000000000
+      internalID: -8720982519504522343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_92
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 55
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1866d6de0505bce40800000000000000
+      internalID: 5677720063741617793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_93
+      rect:
+        serializedVersion: 2
+        x: 5587
+        y: 51
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e1fe8be140b7290800000000000000
+      internalID: -7891709392038453682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EuropeAndMiddleEast_3_94
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 37
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b47a2ec7e0742680800000000000000
+      internalID: -8780769232566979400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EuropeAndMiddleEast_3_0: -3512985028148883584
+      EuropeAndMiddleEast_3_1: -3868178204537063592
+      EuropeAndMiddleEast_3_10: -1174746158764307418
+      EuropeAndMiddleEast_3_11: 2958193178699722759
+      EuropeAndMiddleEast_3_12: 7345259097720139901
+      EuropeAndMiddleEast_3_13: -1731475362437323586
+      EuropeAndMiddleEast_3_14: -6838362343022571010
+      EuropeAndMiddleEast_3_15: -548641429228151836
+      EuropeAndMiddleEast_3_16: 9072264492485113162
+      EuropeAndMiddleEast_3_17: 3922596220774042014
+      EuropeAndMiddleEast_3_18: -5928723577277044983
+      EuropeAndMiddleEast_3_19: -1915088992789541159
+      EuropeAndMiddleEast_3_2: 2978569684970687195
+      EuropeAndMiddleEast_3_20: 69041597171859345
+      EuropeAndMiddleEast_3_21: 3978488511712871146
+      EuropeAndMiddleEast_3_22: -7402636311061694474
+      EuropeAndMiddleEast_3_23: 1867994306249200411
+      EuropeAndMiddleEast_3_24: -1853309377380622903
+      EuropeAndMiddleEast_3_25: 6290526380546102890
+      EuropeAndMiddleEast_3_26: 6937647342261925001
+      EuropeAndMiddleEast_3_27: -4118090037645346728
+      EuropeAndMiddleEast_3_28: 1233220021396333095
+      EuropeAndMiddleEast_3_29: 953346519714425783
+      EuropeAndMiddleEast_3_3: -7386123734642687841
+      EuropeAndMiddleEast_3_30: -4291027201884316101
+      EuropeAndMiddleEast_3_31: 7273124584559111768
+      EuropeAndMiddleEast_3_32: 6011693512445894853
+      EuropeAndMiddleEast_3_33: -6066188948134302496
+      EuropeAndMiddleEast_3_34: 2150588058956793760
+      EuropeAndMiddleEast_3_35: 1130331481039035398
+      EuropeAndMiddleEast_3_36: -2071802995878312713
+      EuropeAndMiddleEast_3_37: 8159004601733382845
+      EuropeAndMiddleEast_3_38: -1807806643939786051
+      EuropeAndMiddleEast_3_39: 3386878822774628853
+      EuropeAndMiddleEast_3_4: -4821084185819696013
+      EuropeAndMiddleEast_3_40: -2640779400899526939
+      EuropeAndMiddleEast_3_41: 6549295895519706440
+      EuropeAndMiddleEast_3_42: -5305707793195229858
+      EuropeAndMiddleEast_3_43: -5354224025348743352
+      EuropeAndMiddleEast_3_44: -3325490117012767895
+      EuropeAndMiddleEast_3_45: -2917366664182000912
+      EuropeAndMiddleEast_3_46: -3313683282466574025
+      EuropeAndMiddleEast_3_47: -3893661918702298606
+      EuropeAndMiddleEast_3_48: 8819211254817734887
+      EuropeAndMiddleEast_3_49: -6171271671992020687
+      EuropeAndMiddleEast_3_5: 7239551187589201684
+      EuropeAndMiddleEast_3_50: 6031095406462493289
+      EuropeAndMiddleEast_3_51: 8474646884573929416
+      EuropeAndMiddleEast_3_52: -716973502480293448
+      EuropeAndMiddleEast_3_53: 6675971206872943671
+      EuropeAndMiddleEast_3_54: 3978074441760111573
+      EuropeAndMiddleEast_3_55: 2704876616212259939
+      EuropeAndMiddleEast_3_56: 2173492577464424230
+      EuropeAndMiddleEast_3_57: -962981647882090394
+      EuropeAndMiddleEast_3_58: 6691889662113547327
+      EuropeAndMiddleEast_3_59: -4664023722685786515
+      EuropeAndMiddleEast_3_6: -4047750343076917713
+      EuropeAndMiddleEast_3_60: -8953098905922408695
+      EuropeAndMiddleEast_3_61: 2887030135957866316
+      EuropeAndMiddleEast_3_62: 1814894763981663380
+      EuropeAndMiddleEast_3_63: 3121149872893629141
+      EuropeAndMiddleEast_3_64: 2921878830626737377
+      EuropeAndMiddleEast_3_65: -1828060654944199046
+      EuropeAndMiddleEast_3_66: 8582508288124224623
+      EuropeAndMiddleEast_3_67: 5074031014102735887
+      EuropeAndMiddleEast_3_68: 2548232524801282740
+      EuropeAndMiddleEast_3_69: 4271850332934792201
+      EuropeAndMiddleEast_3_7: -283121609998074711
+      EuropeAndMiddleEast_3_70: 4352758894845724935
+      EuropeAndMiddleEast_3_71: -5554487372056699347
+      EuropeAndMiddleEast_3_72: -3874092826675342840
+      EuropeAndMiddleEast_3_73: -9082424188338785513
+      EuropeAndMiddleEast_3_74: 4668072043780922968
+      EuropeAndMiddleEast_3_75: -3374496099088100310
+      EuropeAndMiddleEast_3_76: -1992510481137244426
+      EuropeAndMiddleEast_3_77: -8523991690517975885
+      EuropeAndMiddleEast_3_78: 3730563236897741350
+      EuropeAndMiddleEast_3_79: 6419460511337437760
+      EuropeAndMiddleEast_3_8: 3497805349308546156
+      EuropeAndMiddleEast_3_80: -5491235776501625662
+      EuropeAndMiddleEast_3_81: 2353287527206109063
+      EuropeAndMiddleEast_3_82: -4348587819646233346
+      EuropeAndMiddleEast_3_83: 999497378665909795
+      EuropeAndMiddleEast_3_84: 6515617875162141571
+      EuropeAndMiddleEast_3_85: 8757169525413157767
+      EuropeAndMiddleEast_3_86: 8927211336439216145
+      EuropeAndMiddleEast_3_87: 5376458746100941345
+      EuropeAndMiddleEast_3_88: -6379997331487853395
+      EuropeAndMiddleEast_3_89: 3974734756821366551
+      EuropeAndMiddleEast_3_9: -2165493841794956511
+      EuropeAndMiddleEast_3_90: -4688573952333461655
+      EuropeAndMiddleEast_3_91: -8720982519504522343
+      EuropeAndMiddleEast_3_92: 5677720063741617793
+      EuropeAndMiddleEast_3_93: -7891709392038453682
+      EuropeAndMiddleEast_3_94: -8780769232566979400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: b928158640e63dd4c96c64ea46fd319a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2807274626997998081
+    second: WestEurope_0
+  - first:
+      213: 9046052763586481506
+    second: WestEurope_1
+  - first:
+      213: -4648107357186250808
+    second: WestEurope_2
+  - first:
+      213: -3533859255566458232
+    second: WestEurope_3
+  - first:
+      213: 112556346118688713
+    second: WestEurope_4
+  - first:
+      213: -6480316141563366157
+    second: WestEurope_5
+  - first:
+      213: -6251687634979386838
+    second: WestEurope_6
+  - first:
+      213: 1935935064179123795
+    second: WestEurope_7
+  - first:
+      213: -617286875487059391
+    second: WestEurope_8
+  - first:
+      213: -2732153111027989746
+    second: WestEurope_9
+  - first:
+      213: 948767715608884204
+    second: WestEurope_10
+  - first:
+      213: -728097982324581720
+    second: WestEurope_11
+  - first:
+      213: -2180929599226918195
+    second: WestEurope_12
+  - first:
+      213: 7120994075203790270
+    second: WestEurope_13
+  - first:
+      213: -656398701481621622
+    second: WestEurope_14
+  - first:
+      213: -8441816878047517310
+    second: WestEurope_15
+  - first:
+      213: -9045289850745178014
+    second: WestEurope_16
+  - first:
+      213: -163544227497770135
+    second: WestEurope_17
+  - first:
+      213: 4086044253138974657
+    second: WestEurope_18
+  - first:
+      213: -9210751259670864264
+    second: WestEurope_19
+  - first:
+      213: -8390704240690787326
+    second: WestEurope_20
+  - first:
+      213: 4885924197358916432
+    second: WestEurope_21
+  - first:
+      213: 8093625274683081742
+    second: WestEurope_22
+  - first:
+      213: -7346505026937549425
+    second: WestEurope_23
+  - first:
+      213: -5710682763382725841
+    second: WestEurope_24
+  - first:
+      213: 4912814633413493818
+    second: WestEurope_25
+  - first:
+      213: 6485203821946859325
+    second: WestEurope_26
+  - first:
+      213: 2534354706535404950
+    second: WestEurope_27
+  - first:
+      213: 7513434820962660707
+    second: WestEurope_28
+  - first:
+      213: -3306359992767530452
+    second: WestEurope_29
+  - first:
+      213: 4754073596110139672
+    second: WestEurope_30
+  - first:
+      213: -1680059535819155910
+    second: WestEurope_31
+  - first:
+      213: -7439922693065894383
+    second: WestEurope_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WestEurope_0
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 3932
+        width: 2774
+        height: 3741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102de21566175f620800000000000000
+      internalID: 2807274626997998081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_1
+      rect:
+        serializedVersion: 2
+        x: 5889
+        y: 7626
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d43097f090a8d70800000000000000
+      internalID: 9046052763586481506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_2
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 5256
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7a8014cfa9e7fb0800000000000000
+      internalID: -4648107357186250808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_3
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 5308
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8822cb1fab535fec0800000000000000
+      internalID: -3533859255566458232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_4
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 5275
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfce938661ef8100800000000000000
+      internalID: 112556346118688713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_5
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 5215
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4b2edadca4116a0800000000000000
+      internalID: -6480316141563366157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_6
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 5138
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a0a56083b8d39a0800000000000000
+      internalID: -6251687634979386838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_7
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 5064
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356ae901fa2ddda10800000000000000
+      internalID: 1935935064179123795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_8
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 4943
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14245167bd4fe67f0800000000000000
+      internalID: -617286875487059391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_9
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 4981
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03c2399831751ad0800000000000000
+      internalID: -2732153111027989746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_10
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 4813
+        width: 66
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3f937e533ba2d00800000000000000
+      internalID: 948767715608884204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_11
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 3258
+        width: 515
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa5dd12eb645e5f0800000000000000
+      internalID: -728097982324581720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_12
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1022
+        width: 5165
+        height: 3744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcac1f5a518cbb1e0800000000000000
+      internalID: -2180929599226918195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1458
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5ee2cf16ad2d260800000000000000
+      internalID: 7120994075203790270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1347
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a870927dbd004e6f0800000000000000
+      internalID: -656398701481621622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1350
+        width: 59
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285a41da644a8da80800000000000000
+      internalID: -8441816878047517310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_16
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1362
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26833e30ecca87280800000000000000
+      internalID: -9045289850745178014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1329
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9630eee3469fabdf0800000000000000
+      internalID: -163544227497770135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_18
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1240
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7ffd4799b84b830800000000000000
+      internalID: 4086044253138974657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_19
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1140
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e16dca786dc2080800000000000000
+      internalID: -9210751259670864264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_20
+      rect:
+        serializedVersion: 2
+        x: 4731
+        y: 1020
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c034ee2fa3e8b80800000000000000
+      internalID: -8390704240690787326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_21
+      rect:
+        serializedVersion: 2
+        x: 6139
+        y: 1007
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0535017bb2a4ec340800000000000000
+      internalID: 4885924197358916432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_22
+      rect:
+        serializedVersion: 2
+        x: 4748
+        y: 995
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04cb923e45525070800000000000000
+      internalID: 8093625274683081742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_23
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 943
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d04c8f998fb0a90800000000000000
+      internalID: -7346505026937549425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_24
+      rect:
+        serializedVersion: 2
+        x: 5705
+        y: 883
+        width: 292
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2360af78449fb0b0800000000000000
+      internalID: -5710682763382725841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_25
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 598
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34c3ff31e2dd2440800000000000000
+      internalID: 4912814633413493818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_26
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 98
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fe5271482100a50800000000000000
+      internalID: 6485203821946859325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_27
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 140
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695d1e19d26db2320800000000000000
+      internalID: 2534354706535404950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_28
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 42
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361b78a6925154860800000000000000
+      internalID: 7513434820962660707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_29
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 41
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a378bba137d12d0800000000000000
+      internalID: -3306359992767530452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_30
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 11
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811753c5fbcd9f140800000000000000
+      internalID: 4754073596110139672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_31
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 47
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36ddf5e0ca3fa8e0800000000000000
+      internalID: -1680059535819155910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WestEurope_32
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1169073aab510c890800000000000000
+      internalID: -7439922693065894383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WestEurope_0: 2807274626997998081
+      WestEurope_1: 9046052763586481506
+      WestEurope_10: 948767715608884204
+      WestEurope_11: -728097982324581720
+      WestEurope_12: -2180929599226918195
+      WestEurope_13: 7120994075203790270
+      WestEurope_14: -656398701481621622
+      WestEurope_15: -8441816878047517310
+      WestEurope_16: -9045289850745178014
+      WestEurope_17: -163544227497770135
+      WestEurope_18: 4086044253138974657
+      WestEurope_19: -9210751259670864264
+      WestEurope_2: -4648107357186250808
+      WestEurope_20: -8390704240690787326
+      WestEurope_21: 4885924197358916432
+      WestEurope_22: 8093625274683081742
+      WestEurope_23: -7346505026937549425
+      WestEurope_24: -5710682763382725841
+      WestEurope_25: 4912814633413493818
+      WestEurope_26: 6485203821946859325
+      WestEurope_27: 2534354706535404950
+      WestEurope_28: 7513434820962660707
+      WestEurope_29: -3306359992767530452
+      WestEurope_3: -3533859255566458232
+      WestEurope_30: 4754073596110139672
+      WestEurope_31: -1680059535819155910
+      WestEurope_32: -7439922693065894383
+      WestEurope_4: 112556346118688713
+      WestEurope_5: -6480316141563366157
+      WestEurope_6: -6251687634979386838
+      WestEurope_7: 1935935064179123795
+      WestEurope_8: -617286875487059391
+      WestEurope_9: -2732153111027989746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

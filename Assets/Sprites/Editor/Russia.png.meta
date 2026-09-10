@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 2a627b2daef152d4db80c827f5737400
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8697251012617859226
+    second: Russia_0
+  - first:
+      213: -3783350642103226348
+    second: Russia_1
+  - first:
+      213: 3473786202497679506
+    second: Russia_2
+  - first:
+      213: -6680890429450670608
+    second: Russia_3
+  - first:
+      213: -8197841976883769768
+    second: Russia_4
+  - first:
+      213: -4907712291496054432
+    second: Russia_5
+  - first:
+      213: 6805621420860399815
+    second: Russia_6
+  - first:
+      213: -9162925953332268687
+    second: Russia_7
+  - first:
+      213: -2823972876476233699
+    second: Russia_8
+  - first:
+      213: -1772586742432665613
+    second: Russia_9
+  - first:
+      213: -5901591813380802088
+    second: Russia_10
+  - first:
+      213: 2632346950145324077
+    second: Russia_11
+  - first:
+      213: 6049161258113898851
+    second: Russia_12
+  - first:
+      213: 8859646807968230867
+    second: Russia_13
+  - first:
+      213: 4926205372640239802
+    second: Russia_14
+  - first:
+      213: 5850806868457524711
+    second: Russia_15
+  - first:
+      213: -6213030384015917489
+    second: Russia_16
+  - first:
+      213: -3557954134283592752
+    second: Russia_17
+  - first:
+      213: 7409843318898897575
+    second: Russia_18
+  - first:
+      213: 4709018321186459293
+    second: Russia_19
+  - first:
+      213: 4718642737222002934
+    second: Russia_20
+  - first:
+      213: 7379093170524198634
+    second: Russia_21
+  - first:
+      213: -5795544099106749499
+    second: Russia_22
+  - first:
+      213: -533359860048178924
+    second: Russia_23
+  - first:
+      213: -5311587799541658323
+    second: Russia_24
+  - first:
+      213: 383768551668680034
+    second: Russia_25
+  - first:
+      213: 4662247065018132438
+    second: Russia_26
+  - first:
+      213: -4855040701838375205
+    second: Russia_27
+  - first:
+      213: -5436987441954483033
+    second: Russia_28
+  - first:
+      213: 1926879414142787753
+    second: Russia_29
+  - first:
+      213: 8572980011517377112
+    second: Russia_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Russia_0
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 3686
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a907e7947b7d2b870800000000000000
+      internalID: 8697251012617859226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_1
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 3662
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410f0b4d2a6de7bc0800000000000000
+      internalID: -3783350642103226348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_2
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 3558
+        width: 109
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2900781752e553030800000000000000
+      internalID: 3473786202497679506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_3
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 3593
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd29412d85b843a0800000000000000
+      internalID: -6680890429450670608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_4
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 3323
+        width: 219
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e8e03f72a6b3e80800000000000000
+      internalID: -8197841976883769768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_5
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3537
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0613f8d4cad44ebb0800000000000000
+      internalID: -4907712291496054432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_6
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3448
+        width: 127
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c06c22ef9c627e50800000000000000
+      internalID: 6805621420860399815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_7
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 3477
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1713c68846fb6d080800000000000000
+      internalID: -9162925953332268687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_8
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 3512
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18cb4281ab3fc8d0800000000000000
+      internalID: -2823972876476233699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_9
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 3463
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffebb3dfb18667e0800000000000000
+      internalID: -1772586742432665613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_10
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 3542
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d975128385591ea0800000000000000
+      internalID: -5901591813380802088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_11
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 3411
+        width: 131
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24bef8ba99f78420800000000000000
+      internalID: 2632346950145324077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_12
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 3337
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3691fea4d10f2f350800000000000000
+      internalID: 6049161258113898851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_13
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 3405
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddae58d4d9c3fa70800000000000000
+      internalID: 8859646807968230867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_14
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3487
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0a7deafa56d5440800000000000000
+      internalID: 4926205372640239802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_15
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3355
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed83d319dd323150800000000000000
+      internalID: 5850806868457524711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_16
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 3405
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eb506a8c1e6c9a0800000000000000
+      internalID: -6213030384015917489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_17
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 3341
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbd4e2d09b9f9ec0800000000000000
+      internalID: -3557954134283592752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_18
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 3333
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a235405d3d05d660800000000000000
+      internalID: 7409843318898897575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_19
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3366
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e0023b63bc95140800000000000000
+      internalID: 4709018321186459293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_20
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 3335
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8281ea19cfb7140800000000000000
+      internalID: 4718642737222002934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_21
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 3305
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae61b99742ec76660800000000000000
+      internalID: 7379093170524198634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_22
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 3306
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c381a41957129fa0800000000000000
+      internalID: -5795544099106749499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_23
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 3258
+        width: 96
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411506c78002998f0800000000000000
+      internalID: -533359860048178924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_24
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3096
+        width: 241
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d450fc9037946b0800000000000000
+      internalID: -5311587799541658323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_25
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 3223
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2658d26e67b635500800000000000000
+      internalID: 383768551668680034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_26
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 3244
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d763850101a3b040800000000000000
+      internalID: 4662247065018132438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_27
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 2955
+        width: 209
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd64cdc643e6f9cb0800000000000000
+      internalID: -4855040701838375205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_28
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 2995
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a41b0a5ab0fb84b0800000000000000
+      internalID: -5436987441954483033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_29
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 2971
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a06efc3e96adba10800000000000000
+      internalID: 1926879414142787753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russia_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 5553
+        height: 2815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a740d16e759f670800000000000000
+      internalID: 8572980011517377112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Russia_0: 8697251012617859226
+      Russia_1: -3783350642103226348
+      Russia_10: -5901591813380802088
+      Russia_11: 2632346950145324077
+      Russia_12: 6049161258113898851
+      Russia_13: 8859646807968230867
+      Russia_14: 4926205372640239802
+      Russia_15: 5850806868457524711
+      Russia_16: -6213030384015917489
+      Russia_17: -3557954134283592752
+      Russia_18: 7409843318898897575
+      Russia_19: 4709018321186459293
+      Russia_2: 3473786202497679506
+      Russia_20: 4718642737222002934
+      Russia_21: 7379093170524198634
+      Russia_22: -5795544099106749499
+      Russia_23: -533359860048178924
+      Russia_24: -5311587799541658323
+      Russia_25: 383768551668680034
+      Russia_26: 4662247065018132438
+      Russia_27: -4855040701838375205
+      Russia_28: -5436987441954483033
+      Russia_29: 1926879414142787753
+      Russia_3: -6680890429450670608
+      Russia_30: 8572980011517377112
+      Russia_4: -8197841976883769768
+      Russia_5: -4907712291496054432
+      Russia_6: 6805621420860399815
+      Russia_7: -9162925953332268687
+      Russia_8: -2823972876476233699
+      Russia_9: -1772586742432665613
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

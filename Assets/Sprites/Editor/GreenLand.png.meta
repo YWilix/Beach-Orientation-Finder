@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 6f2242d242d203a43867f372fd85b976
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7447533471659937259
+    second: GreenLand_0
+  - first:
+      213: 6072089292330912792
+    second: GreenLand_1
+  - first:
+      213: 449342948675391620
+    second: GreenLand_2
+  - first:
+      213: 699615193823260307
+    second: GreenLand_3
+  - first:
+      213: 8837348826446799581
+    second: GreenLand_4
+  - first:
+      213: -6265648518908146881
+    second: GreenLand_5
+  - first:
+      213: 7131589098159433291
+    second: GreenLand_6
+  - first:
+      213: -1546193984335240661
+    second: GreenLand_7
+  - first:
+      213: -2866932383459140317
+    second: GreenLand_8
+  - first:
+      213: -461782203232762937
+    second: GreenLand_9
+  - first:
+      213: 5303800762067435448
+    second: GreenLand_10
+  - first:
+      213: 8956809167924915124
+    second: GreenLand_11
+  - first:
+      213: -8663788391148654328
+    second: GreenLand_12
+  - first:
+      213: 5119750689349362151
+    second: GreenLand_13
+  - first:
+      213: 2402112843661332823
+    second: GreenLand_14
+  - first:
+      213: -5088415577295995578
+    second: GreenLand_15
+  - first:
+      213: 4179225305598283094
+    second: GreenLand_16
+  - first:
+      213: -8268934775950322600
+    second: GreenLand_17
+  - first:
+      213: 5482705349434694181
+    second: GreenLand_18
+  - first:
+      213: 5143134032806763160
+    second: GreenLand_19
+  - first:
+      213: 3740461454927875512
+    second: GreenLand_20
+  - first:
+      213: 3077601210587559841
+    second: GreenLand_21
+  - first:
+      213: -8101023072607762890
+    second: GreenLand_22
+  - first:
+      213: 7899341560184476260
+    second: GreenLand_23
+  - first:
+      213: 7817432541054857651
+    second: GreenLand_24
+  - first:
+      213: -6720749622271161926
+    second: GreenLand_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenLand_0
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 4243
+        width: 95
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed4f17db34fa5760800000000000000
+      internalID: 7447533471659937259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_1
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 3688
+        width: 795
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c46d14a05644450800000000000000
+      internalID: 6072089292330912792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_2
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 3087
+        width: 2059
+        height: 2713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4809f16f7036c3600800000000000000
+      internalID: 449342948675391620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_3
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 0
+        width: 4144
+        height: 6078
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e2d43ef4885b900800000000000000
+      internalID: 699615193823260307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_4
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 3729
+        width: 270
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2a3947fe194aa70800000000000000
+      internalID: 8837348826446799581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_5
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 3573
+        width: 447
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b070f6ed1fb09a0800000000000000
+      internalID: -6265648518908146881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_6
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 3577
+        width: 236
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4667dfff7e78f260800000000000000
+      internalID: 7131589098159433291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_7
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3550
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b222ad963c0da8ae0800000000000000
+      internalID: -1546193984335240661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_8
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 3432
+        width: 250
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d9ad8df2c9638d0800000000000000
+      internalID: -2866932383459140317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_9
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 3365
+        width: 112
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3c6b4688b6799f0800000000000000
+      internalID: -461782203232762937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_10
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 3539
+        width: 103
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfb97e31b2ea9940800000000000000
+      internalID: 5303800762067435448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_11
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 3465
+        width: 215
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb6027ab7afc4c70800000000000000
+      internalID: 8956809167924915124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2990
+        width: 501
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8017e686c5a04c780800000000000000
+      internalID: -8663788391148654328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2616
+        width: 821
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1ea3950220d0740800000000000000
+      internalID: 5119750689349362151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_14
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3242
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75156d487e4065120800000000000000
+      internalID: 2402112843661332823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_15
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 3202
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d35b5fdf05269b0800000000000000
+      internalID: -5088415577295995578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_16
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 2633
+        width: 1183
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d4280e5479ff930800000000000000
+      internalID: 4179225305598283094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_17
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 3130
+        width: 109
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8545b98c1a7de3d80800000000000000
+      internalID: -8268934775950322600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_18
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 2765
+        width: 371
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a5039777b761c40800000000000000
+      internalID: 5482705349434694181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2967
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a5ba14725106740800000000000000
+      internalID: 5143134032806763160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_20
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2905
+        width: 131
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd440d10e9c8e330800000000000000
+      internalID: 3740461454927875512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_21
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2973
+        width: 165
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a73265cef5d5ba20800000000000000
+      internalID: 3077601210587559841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_22
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 2990
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63688ffbf62639f80800000000000000
+      internalID: -8101023072607762890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_23
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2777
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4629646eb4910ad60800000000000000
+      internalID: 7899341560184476260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_24
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2866
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b177214a791d7c60800000000000000
+      internalID: 7817432541054857651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenLand_25
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 2632
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9cf2c93d91bb2a0800000000000000
+      internalID: -6720749622271161926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GreenLand_0: 7447533471659937259
+      GreenLand_1: 6072089292330912792
+      GreenLand_10: 5303800762067435448
+      GreenLand_11: 8956809167924915124
+      GreenLand_12: -8663788391148654328
+      GreenLand_13: 5119750689349362151
+      GreenLand_14: 2402112843661332823
+      GreenLand_15: -5088415577295995578
+      GreenLand_16: 4179225305598283094
+      GreenLand_17: -8268934775950322600
+      GreenLand_18: 5482705349434694181
+      GreenLand_19: 5143134032806763160
+      GreenLand_2: 449342948675391620
+      GreenLand_20: 3740461454927875512
+      GreenLand_21: 3077601210587559841
+      GreenLand_22: -8101023072607762890
+      GreenLand_23: 7899341560184476260
+      GreenLand_24: 7817432541054857651
+      GreenLand_25: -6720749622271161926
+      GreenLand_3: 699615193823260307
+      GreenLand_4: 8837348826446799581
+      GreenLand_5: -6265648518908146881
+      GreenLand_6: 7131589098159433291
+      GreenLand_7: -1546193984335240661
+      GreenLand_8: -2866932383459140317
+      GreenLand_9: -461782203232762937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
