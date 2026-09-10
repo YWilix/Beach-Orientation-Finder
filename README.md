@@ -12,23 +12,29 @@ The output angle is **in degrees** it starts at **0°** pointing towards the **s
 
 For this to be clear you can check the following examples (the yellow color represents the land and the blue one represents the water) :
 
-- output angle = **0°** :
-
-  <img width="300" height="300" alt="0Deg" src="https://github.com/user-attachments/assets/eb69c32f-2c05-4ca2-a7bb-f791b2e57363" />
-
-- output angle = **90°** :
-
-  <img width="300" height="300" alt="90Deg" src="https://github.com/user-attachments/assets/c72571d3-9c79-4fbd-9367-b5e06c901784" />
-
-- output angle = **180°** :
-
-  <img width="300" height="300" alt="180Deg" src="https://github.com/user-attachments/assets/c31ea064-9244-47ef-990d-282eee067539" />
-
-- output angle = **270°** :
-
-  <img width="300" height="300" alt="270Deg" src="https://github.com/user-attachments/assets/7fc23c41-0388-4e66-b9a3-2f13f6ca8bc8" />
+<img width="2188" height="824" alt="PreviewImg" src="https://github.com/user-attachments/assets/9bd2a3c7-0cb0-4ed8-9931-a45370ea6b31" />
 
 
 ## How to use this project :
 
+In the "MapScene" scene, there is a Gameobject called Point that contains a Monobehaviour script called BeachDirectionCalculator (found in Assets\Scripts\Main\). 
+The script contains a function called GetBeachAngle which represents the main function of this tool. It takes two arguments a latitude and longitude WGS84 coordinates and returns null if the given position is not onshore other than that it returns a float containing the beach orientation in that location. 
+This is the function Signature of GetBeachAngle :
 
+```C#
+    public float? GetBeachAngle(float latitude, float longitude)
+```
+
+So the usage of this tool is really simple , you call the GetBeachAngle function inside of the Point Gameobject giving it the latitude and longitude of the beach you want and it will return the beach orientation at that location : 
+
+```C#
+    float? angle = Point.GetComponent<BeachDirectionCalculator>().GetBeachAngle(latitude, longitude);
+```
+
+- #### Usage of the project in a unity project :
+  the usage of this tool in a unity project is straight forward. You can import the Unity package provided in this repository , load the MapScene Scene with additive scene loading mode. and just call the GetBeachAngle function as mentioned before.
+
+- #### integration of this tool in a non unity project :
+  Until now, I didn't provide a straightforward way to integrate this tool inside a non unity project since the integration method depends a lot on your app's target platform and used technologies. But you can easily find a way to integrate it using for example ***Unity as a Library*** or ***inter process communication***
+
+## How does it work under the hood :
