@@ -1,8 +1,8 @@
-# Beach Orientation Finder 🏖️
+# 🏖️ Beach Orientation Finder
 
 **Beach Orientation Finder** is a ***fast*** and ***light-weight*** unity project **that provides the shoreline orientation for nearly any coast on earth**.
 
-## The output angle convention :
+## :wrench: The output angle convention :
 
 you can think of the given angle of the coast orientation as ***an arrow that points towards the output angle*** ,
 the **land** would be on the **left side** of the arrow and the **water** would be on the **right side**.
@@ -15,7 +15,7 @@ For this to be clear you can check the following examples (the yellow color repr
 <img width="2188" height="824" alt="PreviewImg" src="https://github.com/user-attachments/assets/9bd2a3c7-0cb0-4ed8-9931-a45370ea6b31" />
 
 
-## How to use this project :
+## :grey_question: How to use this project :
 
 In the "MapScene" scene, there is a Gameobject called Point that contains a Monobehaviour script called BeachDirectionCalculator (found in Assets\Scripts\Main\). 
 The script contains a function called GetBeachAngle which represents the main function of this tool. <br> <br>
@@ -38,7 +38,7 @@ So the usage of this tool is really simple , you call the GetBeachAngle function
 - #### integration of this tool in a non-unity project :
   Until now, I didn't provide a plug-and-use way to integrate this tool inside a non-unity project since the integration method depends a lot on your app's target platform and used technologies. But you can easily find a way to integrate it using for example ***Unity as a Library*** or ***inter process communication*** etc.
 
-## How does it work under the hood :
+## :mag: How does it work under the hood :
 The entire world map was recreated using 2D colliders in unity in two versions , one **"filled"** map and one **"empty"** map and I put in the unity world a Gameobject called **Point** that has a circle collider and the BeachDirectionCalculator script. <br>
 
 When the **GetBeachAngle** function within that script gets called with some coordinates, The Point moves to the corresponding position in the Unity world. It then Shoots Raycasts in the shape of a circle with a length in kilometers equal to the **CircleRadius variable** to get intersection points with the **"empty" map**. Then, those points get simply used to get some angle ,lets call it beta, by fitting a line to those points and finding beta with some simple math (please refer to the **GetBeachAngle function** to get into details). <br>
