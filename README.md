@@ -35,6 +35,7 @@ So the usage of this tool is really simple , you call the GetBeachAngle function
   the usage of this tool in a unity project is straight forward. You can import the Unity package provided in this repository , load the MapScene Scene with additive scene loading mode. and just call the GetBeachAngle function as mentioned before.
 
 - #### integration of this tool in a non unity project :
-  Until now, I didn't provide a straightforward way to integrate this tool inside a non unity project since the integration method depends a lot on your app's target platform and used technologies. But you can easily find a way to integrate it using for example ***Unity as a Library*** or ***inter process communication***
+  Until now, I didn't provide a straightforward way to integrate this tool inside a non unity project since the integration method depends a lot on your app's target platform and used technologies. But you can easily find a way to integrate it using for example ***Unity as a Library*** or ***inter process communication*** etc.
 
 ## How does it work under the hood :
+The entire world map was recreated using 2D colliders in unity in two versions , one **"filled"** map and one **"empty"** map
