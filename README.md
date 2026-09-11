@@ -34,6 +34,7 @@ So the usage of this tool is really simple , you call the GetBeachAngle function
 
 - #### Usage of the project in a unity project :
   the usage of this tool in a unity project is straight forward. You can import the Unity package provided in this repository , load the MapScene Scene with additive scene loading mode. and just call the GetBeachAngle function as mentioned before.
+  You can find the unity package of this tool in the **dist/** folder.
 
 - #### integration of this tool in a non-unity project :
   Until now, I didn't provide a plug-and-use way to integrate this tool inside a non-unity project since the integration method depends a lot on your app's target platform and used technologies. But you can easily find a way to integrate it using for example ***Unity as a Library*** or ***inter process communication*** etc.
